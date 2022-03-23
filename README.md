@@ -1,12 +1,13 @@
-<h1 align="center">Hello World! I'm Sylvan 👋</h1>
-<p align="center">
-    <a href="https://www.linkedin.com/in/sylvan-quarm/"></a>
- </p>
+<h1 align="center">Hello World! I'm Sylvan 👋
+<h2 >
+    <a href="https://www.linkedin.com/in/sylvan-quarm/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+ </h2>
+    </h1>
 A highly versatile computer science engineer deft at using multiple technological tools to automate and optimize business processes.      
 A lot of experience with Machine and Deep Learning along with Natural Language Processing, as well as an expert in building backend applications. I currently architect ML solutions extensively on AWS and GCP, but I also have a good working knowledge on other cloud platforms.
        
         
-- 🔭 I'm a Backend Engineer [@Cobblestone Energy](https://cobblestoneenergy.com/) in Dubai (Remote)
+<!-- 🔭 I'm a Backend Engineer [@Cobblestone Energy](https://cobblestoneenergy.com/) in Dubai (Remote)-->
 
 <!--
 **vanusquarm/vanusquarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
