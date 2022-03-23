@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! I'm Sylvan 👋</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/sylvan-quarm/">
+    <a href="https://www.linkedin.com/in/sylvan-quarm/"></a>
  </p>
 A highly versatile computer science engineer deft at using multiple technological tools to automate and optimize business processes.      
 A lot of experience with Machine and Deep Learning along with Natural Language Processing, as well as an expert in building backend applications. I currently architect ML solutions extensively on AWS and GCP, but I also have a good working knowledge on other cloud platforms.
