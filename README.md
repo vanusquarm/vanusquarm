@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Salam I'm Sylvan 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/sylvan-quarm/">
+
+A highly versatile computer science engineer deft at using multiple technological tools to automate and optimize business processes.      
+A lot of experience with Machine and Deep Learning along with Natural Language Processing, as well as an expert in building backend applications. I currently architect ML solutions extensively on AWS and GCP, but I also have a good working knowledge on other cloud platforms.
+
+<!-- 🔭 I'm a Backend Engineer [@Cobblestone Energy](https://cobblestoneenergy.com/) in Dubai but based in Ghana>
 
 <!--
 **vanusquarm/vanusquarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
