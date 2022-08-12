@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/sylvan-quarm/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
  </h2>
     </h1>
-I build highly scalable and performant backend applications, as well as having a lot of experience in Machine and Deep Learning along with Natural Language Processing. I currently architect ML solutions extensively on AWS and GCP, but I also have a good working knowledge on other cloud platforms.
+I build highly scalable and performant backend applications, as well as having a lot of experience in Machine and Deep Learning along with Natural Language Processing. I currently architect ML solutions extensively on AWS and GCP.
        
         
 <!-- 🔭 I'm a Backend Engineer [@Cobblestone Energy](https://cobblestoneenergy.com/) in Dubai (Remote)-->
